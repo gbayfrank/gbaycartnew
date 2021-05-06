@@ -1,0 +1,6 @@
+{
+    "name": "Contact",
+    "alias": "contact",
+    "description": "The GbayCart Contact Module.",
+    "order": 100
+}

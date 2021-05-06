@@ -1,0 +1,9 @@
+{
+    "name": "Checkout",
+    "alias": "checkout",
+    "description": "The GbayCart Checkout Module.",
+    "order": 100,
+    "providers": [
+        "Modules\\Checkout\\Providers\\EventServiceProvider"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "name": "Import",
+    "alias": "import",
+    "description": "The GbayCart Import Module.",
+    "order": 100,
+    "providers": [
+        "Modules\\Import\\Providers\\ImportServiceProvider"
+    ]
+}

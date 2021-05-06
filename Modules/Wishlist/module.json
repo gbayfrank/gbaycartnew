@@ -1,0 +1,6 @@
+{
+    "name": "Wishlist",
+    "alias": "wishlist",
+    "description": "The GbayCart Wishlist Module.",
+    "order": 100
+}

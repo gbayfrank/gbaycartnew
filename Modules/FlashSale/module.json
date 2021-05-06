@@ -1,0 +1,9 @@
+{
+    "name": "FlashSale",
+    "alias": "flashsale",
+    "description": "The GbayCart FlashSale Module.",
+    "order": 100,
+    "providers": [
+        "Modules\\FlashSale\\Providers\\FlashSaleServiceProvider"
+    ]
+}

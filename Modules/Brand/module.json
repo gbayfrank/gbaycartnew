@@ -1,0 +1,9 @@
+{
+    "name": "Brand",
+    "alias": "brand",
+    "description": "The GbayCart Brand Module.",
+    "order": 100,
+    "providers": [
+        "Modules\\Brand\\Providers\\BrandServiceProvider"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "name": "Payment",
+    "alias": "payment",
+    "description": "The GbayCart Payment Module.",
+    "order": 100,
+    "providers": [
+        "Modules\\Payment\\Providers\\GatewayServiceProvider"
+    ]
+}
